@@ -1,0 +1,6 @@
+{
+    "icons": [
+        { "src": "img/favicons/favicon-180x180.png", "type": "image/png", "sizes": "180x180" }
+        { "src": "img/favicons/favicon-310x310.png", "type": "image/png", "sizes": "310x310" }
+    ]
+}
